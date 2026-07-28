@@ -1,5 +1,7 @@
 # Deploying U²-Net for Intelligent Background Removal
 
+**English** | [**简体中文**](locales/README.zh-CN.md)
+
 ## NVIDIA AIBOX Series
 
 Both the AIBOX-OrinNano and AIBOX-OrinNX are equipped with original NVIDIA Jetson Orin core modules. They come standard with an industrial-grade all-metal enclosure featuring an aluminum alloy structure for thermal conduction. The top cover utilizes a slatted grille design on the sides for highly efficient heat dissipation, ensuring computational performance and stability under high-temperature operation to meet the demands of various industrial applications.
