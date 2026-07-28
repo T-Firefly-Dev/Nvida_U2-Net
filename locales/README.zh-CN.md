@@ -35,7 +35,7 @@ U²-Net（U-squared Net）是一种基于深度学习的图像分割模型，专
 - **深监督与损失函数**
 - **轻量化设计**
 
-![8](./res/2.webp)
+![8](../res/2.webp)
 
 
 ### **下载源码**
@@ -59,4 +59,4 @@ $ ./backgroundnet.py images/bird_0.jpg images/test/bird_mask.png
 $ ./backgroundnet.py --replace=images/snow.jpg images/bird_0.jpg images/test/bird_replace.jpg
 ```
 
-![8](./res/3.webp)
+![8](../res/3.webp)
